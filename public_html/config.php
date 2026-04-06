@@ -24,7 +24,7 @@ $CFG->wwwroot   = 'https://who.tsandev.org';
 
 // Path for Azure App Service (usually /home/site/wwwroot/moodledata)
 // Make sure this directory is outside your public web folder and is writable
-$CFG->dataroot  = '/home/data/moodledata'; 
+$CFG->dataroot  = '/home/moodledata'; 
 
 $CFG->admin     = 'admin';
 $CFG->directorypermissions = 02777; // Standard for Azure App Service linux environments
