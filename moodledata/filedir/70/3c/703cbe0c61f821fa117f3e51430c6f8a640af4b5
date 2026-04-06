@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.200 --> 00:07.200\nAs we have seen in the previous modules, AFP surveillance is broken into five major steps.\n\n00:07.560 --> 00:20.899\nThe 5th step of activities is the follow-up examination of AFP cases between 60 and 90 days after the onset of paralysis and their review by the country\'s Expert Review Committee.\n\n"
+		};
+	window["st_{A09CDF69-FF06-491D-B17D-A6C9615194EE}"]?.("sndAsset2", subtitles);
+})();

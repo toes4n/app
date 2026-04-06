@@ -1,0 +1,11 @@
+:root {
+    --mainColor: [[setting:brandcolor]];
+    --mainColor2: [[setting:secondarycolor]];
+    --footerBG: [[setting:footer_bg]];
+}
+body {
+    font-family: 'Jost', sans-serif !important;
+}
+.drawer.drawer-left {
+    z-index: 999;
+}

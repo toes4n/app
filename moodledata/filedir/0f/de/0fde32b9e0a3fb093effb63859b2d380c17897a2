@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.089 --> 00:04.873\nLet us now understand how to package the specimens properly.\n\n00:05.772 --> 00:12.064\nWe first place four frozen ice packs alongside the four interior walls of the carrier.\n\n00:12.543 --> 00:17.171\nThe Ziploc plastic bag containing two labeled\n\n00:17.535 --> 00:19.641\nand firmly capped stool containers\n\n00:19.968 --> 00:22.968\nsurrounded by absorbent material like cotton wool is placed between the ice packs.\n\n00:23.419 --> 00:28.671\nThe case investigation form and lab request form are placed in another sealed plastic bag.\n\n00:29.495 --> 00:32.495\nThe carrier is then shut with the tight-fitting insulated lid.\n\n"
+		};
+	window["st_{7D66CD81-384C-4879-9180-EE24C1E63343}"]?.("sndAsset14", subtitles);
+})();

@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.082 --> 00:03.566\nSo what triggers the stool collection process?\n\n00:04.346 --> 00:07.180\nWhen an AFP case is reported,\n\n00:07.336 --> 00:13.030\nthe surveillance officer visits the patient and after history taking and\n\n00:13.394 --> 00:17.606\nexamination initiates the stool collection process.\n\n"
+		};
+	window["st_{6E7CCEAE-3BAE-4411-874B-085EF6B04AAB}"]?.("sndAsset5", subtitles);
+})();

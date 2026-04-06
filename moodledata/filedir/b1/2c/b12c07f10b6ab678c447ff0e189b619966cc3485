@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.089 --> 00:04.135\n36 Month old child has paralysis of the right leg\n\n00:04.645 --> 00:08.725\nsuggests an intramuscular injection \ntwo days before the onset of paralysis.\n\n00:09.622 --> 00:13.430\nThe child has a reported vaccine history of zero doses OPV.\n\n00:13.859 --> 00:15.967\nShould this case be reported?\n\n"
+		};
+	window["st_{C4F02683-6801-4AC3-A8B5-933B48FF2A52}"]?.("sndAsset15", subtitles);
+})();

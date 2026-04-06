@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.462 --> 00:06.666\nHere is a visual representation of the classification of AFP case\n\n00:07.590 --> 00:17.094\nWith edaquate stools, the case can easily be classified as \"Polio\" if the poliovirus was detected in the stool, or classified as \"Discarded\" if there was no virus in the stool\n\n00:17.094 --> 00:22.440\nWhen we have inadequate stool specimens, we look at the results of the \"60-day follow-up\" visit\n\n00:22.440 --> 00:37.026\nIf the 60-day follow-up exam reveals residual paralysis or if the case was lost to follow-up or died before the exam could be done, the case go to the country\'s polio Expert Review Committee for final classification\n\n00:37.290 --> 00:46.734\nThe ERC then classifies the case as either \"Discarded\" or \"Compatible with Polio\"\n\n"
+		};
+	window["st_{00C38465-2107-455D-B531-DCB97D67F4CE}"]?.("sndAsset17", subtitles);
+})();

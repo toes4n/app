@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.288 --> 00:05.760\nAs mentioned, acute flaccid paralysis can be caused by many diseases\n\n00:06.816 --> 00:19.328\nWhich polio is only one the diseases that most commonly present with AFP or Gian beret syndrome or GBS transverse myelitis and traumatic neuritis\n\n00:19.616 --> 00:26.272\nTherefore as you will have understood by now to make sure that we do not miss any polio cases\n\n00:26.528 --> 00:32.192\nIt is important to report all cases presented with AFP regardless of the diagnosis\n\n00:32.480 --> 00:38.080\nWe will then rely on laboratory testing to tell us whether it is polio or not\n\n"
+		};
+	window["st_{C4F02683-6801-4AC3-A8B5-933B48FF2A52}"]?.("sndAsset6", subtitles);
+})();

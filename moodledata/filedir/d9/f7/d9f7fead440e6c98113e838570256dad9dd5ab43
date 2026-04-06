@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.936 --> 00:03.640\nLet us now see what is included in a standard kit for the collection of stools.\n\n00:04.216 --> 00:06.478\nA cool box or sample carrier with\n\n00:06.842 --> 00:08.506\nCase Investigation Form (CIF)\n\n00:08.788 --> 00:10.374\nthe capacity of at least four frozen ice packs.\n\n00:10.612 --> 00:11.990\nTwo leak proof specimen containers with a screw cap\n\n00:12.402 --> 00:16.042\nZiploc plastic bags in which you will place the containers and separately the forms.\n\n00:16.332 --> 00:18.932\nor other sealable plastic bags\n\n00:20.150 --> 00:23.150\nCotton wool or any other absorbent material.\n\n00:23.764 --> 00:25.974\nLabels for the containers.\n\n00:26.260 --> 00:27.378\na water-resistant felt tip pen,\n\n00:27.668 --> 00:29.358\na laboratory request form,\n\n00:29.566 --> 00:30.914\ngloves.\n\n"
+		};
+	window["st_{1BE46B57-5718-4367-A3B4-E70567BBE4D4}"]?.("sndAsset13", subtitles);
+})();

@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.234 --> 00:03.234\nSo who is responsible for all the activities involved in the stool collection process?\n\n00:03.848 --> 00:06.848\nBoth first and second stool specimens,\n\n00:07.254 --> 00:11.466\nthe surveillance officer is ultimately responsible for the entire stool specimen collection process.\n\n00:11.934 --> 00:15.626\nIf the surveillance officer is unable to collect it,\n\n00:16.068 --> 00:21.060\nthen a nurse or a caregiver can collect the specimens\n\n00:21.428 --> 00:27.928\ndepending on whether the location is a health facility or the home of the AFP case.\n\n00:28.522 --> 00:32.032\nThe surveillance officer is also responsible for the packaging\n\n00:32.266 --> 00:35.724\nand storage of the stool specimens as well as the filling out of the necessary forms.\n\n00:36.638 --> 00:43.729\nResponsible for the coordination of the transport from the field to the national level and then to the corresponding WHO-accredited laboratory.\n\n"
+		};
+	window["st_{1BE46B57-5718-4367-A3B4-E70567BBE4D4}"]?.("sndAsset12", subtitles);
+})();

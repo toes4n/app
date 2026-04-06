@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.110 --> 00:05.440\nThe collection of two stool specimens should occur within 14 days of paralysis onset\n\n00:05.674 --> 00:09.184\nand no later than up to 60 days of paralysis onset.\n\n00:09.652 --> 00:13.474\nThe two stool specimens must be collected a minimum of 24 hours apart.\n\n00:14.170 --> 00:17.170\nThe specimens should reach the lab within 3 days of collection.\n\n00:17.758 --> 00:21.008\nAlways collect stool specimens in the health care facility if possible.\n\n00:21.586 --> 00:25.044\nWhen an AFP case has inadequate stool specimens,\n\n00:25.304 --> 00:29.854\none stool specimen from each of three of its contacts must be collected.\n\n00:30.524 --> 00:36.764\nTemperature must remain between 4° and 8° C throughout storage and transport through the reverse cold chain.\n\n"
+		};
+	window["st_{7D66CD81-384C-4879-9180-EE24C1E63343}"]?.("sndAsset25", subtitles);
+})();

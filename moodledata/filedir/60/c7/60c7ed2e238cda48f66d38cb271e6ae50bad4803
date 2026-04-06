@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.200 --> 00:02.760\nSo, who should conduct this examination?\n\n00:02.880 --> 00:06.480\nIdeally, a pediatrician should conduct a 60-day follow up exam\n\n00:06.960 --> 00:16.080\nHowever, a pediatrician is unavailable, another option is to have Medical doctor or Surveillance officer who initially examined the case perform the exam\n\n00:16.360 --> 00:25.560\nDuring the 60-day follow-up visit, it is important to have the original, filled out Case Investigation Form (or CIF) and the \'60-day follow-up examination form\' readily available\n\n"
+		};
+	window["st_{A09CDF69-FF06-491D-B17D-A6C9615194EE}"]?.("sndAsset7", subtitles);
+})();

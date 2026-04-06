@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.093 --> 00:09.219\nWe have come to the end of the stool collection transport and contact sampling module.\n\n00:09.375 --> 00:10.897\nSo let us summarize.\n\n"
+		};
+	window["st_{6E7CCEAE-3BAE-4411-874B-085EF6B04AAB}"]?.("sndAsset28", subtitles);
+})();

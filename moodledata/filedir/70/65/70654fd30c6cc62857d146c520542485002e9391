@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.340 --> 00:06.834\nNow, let’s see how we can ensure that the AFP cases are detected as soon as possible after the onset of paralysis.\n\n00:07.421 --> 00:15.003\nThis is important because the sooner we identify a case of polio the quicker we can respond to the outbreak.\n\n"
+		};
+	window["st_{C4F02683-6801-4AC3-A8B5-933B48FF2A52}"]?.("sndAsset17", subtitles);
+})();

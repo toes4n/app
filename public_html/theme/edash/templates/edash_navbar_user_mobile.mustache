@@ -1,0 +1,19 @@
+<ul class="edash-header-user-sec pull-right">
+
+    
+    {{#output.edash_if_admin}}
+        {{#primarymoremenu}}
+            <li class="user_setting edash-settings-nav">
+                <div class="dropdown">
+                    <a class="notification-icon" href="{{{ config.wwwroot }}}/admin/search.php"><i class='icon bx bx-cog'></i></a>
+                </div>
+            </li>
+        {{/primarymoremenu}}
+    {{/output.edash_if_admin}}
+
+    <li>
+        {{#usermenu}}
+            {{> core/user_menu }}
+        {{/usermenu}}
+    </li>
+</ul>

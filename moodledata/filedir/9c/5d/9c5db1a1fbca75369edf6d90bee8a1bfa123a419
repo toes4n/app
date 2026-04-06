@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.150 --> 00:07.894\nBefore we discuss AFP surveillance versus poliomyelitis surveillance, let us look at the clinical presentation of an infection by the polio virus\n\n00:08.406 --> 00:15.030\nAs you can see in blue up to 95% of all polio infections are in a parent or asymptomatic\n\n00:15.446 --> 00:25.366\nApproximately 4% to 8% of polio infections consist of a minor nonspecific illness in gray here\n\n00:25.366 --> 00:32.790\nAnd it is only fewer than 1% of all polio infections that result in an acute flaccid paralysis or a paralytic polio in red here\n\n00:33.270 --> 00:40.502\nIt is this acute flaccid paralysis that is the only syndrome that can help us to identify a case of poliomyelitis\n\n00:40.918 --> 00:53.558\nBut because it represents only one percent of all polio infections it is very important not to miss any paralytic cases\n\n"
+		};
+	window["st_{C4F02683-6801-4AC3-A8B5-933B48FF2A52}"]?.("sndAsset4", subtitles);
+})();

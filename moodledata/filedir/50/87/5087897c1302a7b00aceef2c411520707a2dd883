@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.260 --> 00:02.808\nIt\'s time for a quick knowledge check.\n\n00:03.410 --> 00:12.744\nThe highest chance of isolating the virus is when you collect stools within 21 days of the onset of paralysis.\n\n00:13.085 --> 00:14.473\nState if this statement is true or false.\n\n"
+		};
+	window["st_{6E7CCEAE-3BAE-4411-874B-085EF6B04AAB}"]?.("sndAsset9", subtitles);
+})();

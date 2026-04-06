@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.249 --> 00:05.976\nIn some instances, however, you will not be able to perform the 60-day follow-up.\n\n00:06.540 --> 00:17.413\nEither the child is no longer lives at the same place and cannot be traced or found( telephonically or by every other possible means), in which case, at a last resort, you will record on the form that the case is \"lost to follow-up\" or\n\n00:17.762 --> 00:27.299\nThe other possibility is that the child died before your visit, in which case you will record the case as having \"died\"\n\n"
+		};
+	window["st_{00C38465-2107-455D-B531-DCB97D67F4CE}"]?.("sndAsset11", subtitles);
+})();

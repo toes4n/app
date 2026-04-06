@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.156 --> 00:05.486\nIf the collection, packaging, storage, and transport are all done properly,\n\n00:05.648 --> 00:08.648\nthen the specimen should arrive at the lab in good condition.\n\n00:09.106 --> 00:16.126\nThe polio eradication program defines good condition as fulfilling all of the four criteria as follows.\n\n00:16.874 --> 00:19.584\nthe adequate quantity of stool per container\n\n00:19.584 --> 00:21.950\nwhich is the equivalent of the size of ‌an adult thumb\n\n00:22.386 --> 00:26.078\nor between 8 and 10 g in each container.\n\n00:26.754 --> 00:29.354\nNo leakage from the container\n\n00:29.666 --> 00:33.514\nand no desiccation of the stool specimen\n\n00:33.982 --> 00:36.982\nthat means the specimen should not dried out.\n\n00:37.472 --> 00:44.232\nThe containers arrived at the appropriate temperature that is 4° to 8°.\n\n00:44.622 --> 00:47.898\nThe containers are correctly labeled and properly filled.\n\n00:48.195 --> 00:54.929\nCase Investigation Form or lab request form accompany the samples.\n\n"
+		};
+	window["st_{6E7CCEAE-3BAE-4411-874B-085EF6B04AAB}"]?.("sndAsset22", subtitles);
+})();

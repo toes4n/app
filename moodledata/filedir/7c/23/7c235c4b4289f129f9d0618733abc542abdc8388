@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.396 --> 00:05.016\nHow is AFP case classification done?\n\n00:05.544 --> 00:09.108\nThe ERC reaches its conclusion by using:\n\n00:09.306 --> 00:16.566\nLab result of stool specimens from the case and from contacts of the case; clinical findings at the 60-day follow-up visit.\n\n00:16.903 --> 00:28.840\nClinical presentation and the initial CIF, as well as other clinical investigations(Nerve conduction studies, EMG etc).\n\n"
+		};
+	window["st_{00C38465-2107-455D-B531-DCB97D67F4CE}"]?.("sndAsset15", subtitles);
+})();

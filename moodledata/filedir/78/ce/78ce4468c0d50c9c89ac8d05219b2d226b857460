@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.160 --> 00:04.064\nNow how do we recognize a case of AFP?\n\n00:04.576 --> 00:17.440\nThe main signs we are looking for are an acute or sudden occurrence of paralysis in an arm or a leg for which there is no obvious cause so there is no severe injury or birth, trauma, a flaccid or floppy or weak limb in the patient\n\n00:17.440 --> 00:24.160\nHe or she can no longer walk, stand, grab or hold an object\n\n00:24.416 --> 00:31.136\nFurthermore, the paralysis is asymmetrical, and the illness often starts with a fever\n\n"
+		};
+	window["st_{C4F02683-6801-4AC3-A8B5-933B48FF2A52}"]?.("sndAsset7", subtitles);
+})();

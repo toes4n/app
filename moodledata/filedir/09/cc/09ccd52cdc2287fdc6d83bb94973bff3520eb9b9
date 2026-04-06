@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.312 --> 00:02.392\nAs mentioned earlier in the module,\n\n00:02.652 --> 00:06.136\nin the case of inadequate samples from an AFP case,\n\n00:06.656 --> 00:09.906\nwe will have to do contact sampling.\n\n00:10.556 --> 00:14.534\nContact sampling is the collection of\n\n00:14.877 --> 00:19.323\none stool specimen from each of three contacts of an AFP case.\n\n00:19.968 --> 00:23.764\nTaking a sample like this not only can confirm the presence of the Polio virus but also\n\n00:23.764 --> 00:27.965\nthe virus is confirmed and the AFP case is considered as a case of polio.\n\n"
+		};
+	window["st_{6E7CCEAE-3BAE-4411-874B-085EF6B04AAB}"]?.("sndAsset23", subtitles);
+})();

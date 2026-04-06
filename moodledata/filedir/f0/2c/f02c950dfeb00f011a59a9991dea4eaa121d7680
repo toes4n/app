@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.332 --> 00:05.121\nNow, let us move on to the \"Expert Review Committee\" or ERC and find out what its role is\n\n"
+		};
+	window["st_{A09CDF69-FF06-491D-B17D-A6C9615194EE}"]?.("sndAsset11", subtitles);
+})();

@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.115 --> 00:01.727\nIt\'s time for a quick knowledge check.\n\n00:03.146 --> 00:08.866\nDue to heavy rains, the roads to the capital city where the polio lab is have been severely damaged\n\n00:09.308 --> 00:11.856\nthat repairs will likely take 3 to 4 days.\n\n00:12.116 --> 00:19.656\nRubina was just informed that the stool specimens she collected will reach the lab after 3 or 4 days\n\n00:20.072 --> 00:22.750\nhow should she store them?\n\n00:23.047 --> 00:26.297\nSelect the correct option and select submit.\n\n"
+		};
+	window["st_{6E7CCEAE-3BAE-4411-874B-085EF6B04AAB}"]?.("sndAsset20", subtitles);
+})();

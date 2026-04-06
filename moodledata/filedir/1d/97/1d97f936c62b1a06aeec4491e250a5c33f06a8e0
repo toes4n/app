@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.330 --> 00:04.950\nYou have come to the end of the 60-day follow-up examination module\n\n00:05.346 --> 00:09.306\nSo, Let us summarize\n\n00:09.768 --> 00:20.922\nThe 60-day follow-up visit includes a physical examination of AFP cases between 60 and 90 days after the onset of paralysis\n\n00:21.648 --> 00:27.390\nA country\'s Expert Review committee or ERC convenes on a regular basis to classify AFP cases and review progress on polio surveillance\n\n00:27.720 --> 00:34.875\nThe importance of polio compatilble cases lies in the fact that they highlight failures of the surveillance system and point to areas of possible missed by wrist transmission. They thus encourage the strengthening of the surveillance system\n\n"
+		};
+	window["st_{00C38465-2107-455D-B531-DCB97D67F4CE}"]?.("sndAsset19", subtitles);
+})();

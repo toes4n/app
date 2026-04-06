@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.256 --> 00:01.504\nAs you just saw in the graph,\n\n00:01.638 --> 00:09.724\nthe chances of isolating the polio virus are greatest when the first specimen is collected as soon as possible after the case investigation.\n\n00:10.244 --> 00:16.250\nwhen the second specimen is collected a minimum of 24 hours after the collection of the first specimen,\n\n00:16.744 --> 00:22.412\n24 hours apart because the virus is excreted intermittently.\n\n00:23.292 --> 00:26.984\nAnd when both specimens are collected within 14 days of paralysis onset and\n\n00:27.296 --> 00:33.536\nas mentioned no later than 60 days after onset.\n\n00:33.900 --> 00:45.938\nWhen the two specimens reach the lab within 3 days of collection of the second specimen irrespective of where the lab is located within the country or outside.\n\n"
+		};
+	window["st_{6E7CCEAE-3BAE-4411-874B-085EF6B04AAB}"]?.("sndAsset7", subtitles);
+})();

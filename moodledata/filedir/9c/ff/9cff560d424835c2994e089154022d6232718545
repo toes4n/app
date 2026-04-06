@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.182 --> 00:02.496\nAs you can see in the graph,\n\n00:02.864 --> 00:05.864\nStool collection is a very time-sensitive process.\n\n00:06.452 --> 00:09.962\nthe polio virus coming out of the infected person\'s stool\n\n00:10.248 --> 00:15.136\nis highest in the first 14 days after onset.\n\n00:15.782 --> 00:20.696\nThis is the ideal time to collect stool specimens for lab tests.\n\n00:21.394 --> 00:22.850\nAfter 14 days,\n\n00:23.062 --> 00:27.560\nthe likelihood of finding the virus in the stool specimens decreases rapidly\n\n00:27.898 --> 00:32.318\nuntil 60 days when it is the lowest.\n\n00:32.477 --> 00:38.353\nHence, stool specimens are not to be collected after 60 days of the onset of paralysis.\n\n"
+		};
+	window["st_{6E7CCEAE-3BAE-4411-874B-085EF6B04AAB}"]?.("sndAsset6", subtitles);
+})();

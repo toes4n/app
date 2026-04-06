@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.130 --> 00:01.014\nNow the question is\n\n00:01.222 --> 00:06.968\nThe contacts are children less than 5 years of age who are either members of the immediate family, neighbors, or playmates\n\n00:07.410 --> 00:14.092\npreferably within 7 days before the onset of paralysis and or within 14 days after the onset of paralysis.\n\n00:14.326 --> 00:17.732\nwho have been in direct contact with the AFP case,\n\n00:17.948 --> 00:22.225\nhow do we choose the contacts to take samples from?\n\n"
+		};
+	window["st_{1BE46B57-5718-4367-A3B4-E70567BBE4D4}"]?.("sndAsset24", subtitles);
+})();

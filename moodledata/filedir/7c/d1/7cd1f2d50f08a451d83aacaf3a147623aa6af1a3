@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.130 --> 00:03.874\nWe do not advise you to use other containers than the ones provided\n\n00:04.212 --> 00:06.889\nPackaging stool specimens in plastic are not acceptable either.\n\n"
+		};
+	window["st_{6E7CCEAE-3BAE-4411-874B-085EF6B04AAB}"]?.("sndAsset16", subtitles);
+})();

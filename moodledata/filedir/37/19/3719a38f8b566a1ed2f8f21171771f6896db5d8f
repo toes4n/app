@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.440 --> 00:06.760\nParalytic cases caused by polio often result in Permanent residual paralysis\n\n00:06.920 --> 00:16.600\nThe policy is to check for the presence of residual paralysis on day 60 after the onset of paralysis, or as soon as possible after 60day, but no later than day 90\n\n00:17.120 --> 00:25.183\nThe 60-day follow-up visit involves therefore a physical examination of the AFP case to assess the presence or absence of residual paralysis\n\n"
+		};
+	window["st_{A09CDF69-FF06-491D-B17D-A6C9615194EE}"]?.("sndAsset4", subtitles);
+})();

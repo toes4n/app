@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.200 --> 00:03.920\nWhy do we conduct a 60-day Follow-up examination?\n\n00:04.080 --> 00:10.920\nThis exam yields essential clinical information needed for the classification of the AFP case by the country\'s Polio Expert Review Committee. If residual paralysis is detected , it can serve as additional evidance linking the paralysis to the poliovirud\n\n00:11.160 --> 00:14.920\nThe exam adds to the general knowledge about diseases that cause paralysis.\n\n00:15.160 --> 00:20.638\nIt may also lead to improved care of the paralyzed child through rehabilitation support\n\n"
+		};
+	window["st_{A09CDF69-FF06-491D-B17D-A6C9615194EE}"]?.("sndAsset5", subtitles);
+})();

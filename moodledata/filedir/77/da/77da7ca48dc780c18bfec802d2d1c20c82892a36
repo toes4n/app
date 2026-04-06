@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.277 --> 00:03.915\nAn 18-year-old man has a weakness in his left leg.\n\n00:04.425 --> 00:06.533\nHe has had a high-grade fever for two days and\n\n00:07.378 --> 00:12.716\nhis leg is so sore weak and floppy is vaccine status is unknown.\n\n00:12.954 --> 00:15.334\nShould this case be reported?\n\n"
+		};
+	window["st_{C4F02683-6801-4AC3-A8B5-933B48FF2A52}"]?.("sndAsset16", subtitles);
+})();

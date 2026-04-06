@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.082 --> 00:02.110\nTo maximize the chances of isolating the virus,\n\n00:02.340 --> 00:05.340\nit is important to aim for adequate stool specimens.\n\n00:05.854 --> 00:10.040\nStool specimens are termed as being adequate when two stool specimens were collected\n\n00:10.456 --> 00:15.500\nat least 24 hours apart and within 14 days of onset.\n\n00:15.964 --> 00:21.138\nand when they are received in good condition at a WHO-accredited lab.\n\n00:21.662 --> 00:26.160\nStool condition and reverse cold chain are important topics\n\n00:26.364 --> 00:29.692\nthat are covered in detail in the further part of the lesson.\n\n"
+		};
+	window["st_{1BE46B57-5718-4367-A3B4-E70567BBE4D4}"]?.("sndAsset10", subtitles);
+})();

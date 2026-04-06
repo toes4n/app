@@ -1,0 +1,140 @@
+{{#output.enable_dark_nav_footer}}
+<div class="navbar-area navbar-area-with-black-color {{output.edash_is_siteadmin}}">
+{{/output.enable_dark_nav_footer}}
+ 
+{{^ output.enable_dark_nav_footer }}
+    {{#output.enable_nav_footer_style2}}
+    <div class="navbar-area remote-training-navbar-area {{output.edash_is_siteadmin}}">
+    {{/output.enable_nav_footer_style2}}
+
+    {{^ output.enable_nav_footer_style2 }}
+        {{#output.enable_nav_footer_style3}}
+            <div class="navbar-area navbar-area-with-position-relative {{output.edash_is_siteadmin}}">
+        {{/output.enable_nav_footer_style3}}
+
+        {{^ output.enable_nav_footer_style3 }}
+            <div class="navbar-area {{output.edash_is_siteadmin}}">
+        {{/output.enable_nav_footer_style3}}
+    {{/output.enable_nav_footer_style2}}
+{{/output.enable_dark_nav_footer}}
+
+    <div class="edash-responsive-nav">
+        <div class="container">
+            <div class="edash-responsive-menu">
+                {{#logo_visibility}}
+                    <div class="logo">
+                        <a href="{{{ config.wwwroot }}}/">
+                            {{#mobile_logo}}
+                                <img src="{{mobile_logo}}" alt="{{sitename}}"  {{#mobile_logo_styles}} style="{{{mobile_logo_styles}}}" {{/mobile_logo_styles}}>
+                            {{/mobile_logo}}
+
+                            {{^ mobile_logo }}
+                                <h2 {{#mobile_logo_styles}} style="{{{mobile_logo_styles}}}" {{/mobile_logo_styles}}>{{sitename}}</h2>
+                            {{/mobile_logo}}
+                        </a>
+                    </div>
+                {{/logo_visibility}}
+            </div>
+        </div>
+    </div>
+    <div class="edash-nav">
+        <div class="container-fluid">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                {{#logo_visibility}}
+                    <a class="navbar-brand" href="{{{ config.wwwroot }}}/">
+                        {{#main_logo}}
+                            <img src="{{main_logo}}" alt="{{sitename}}"  {{#logo_styles}} style="{{{logo_styles}}}" {{/logo_styles}}>
+                        {{/main_logo}}
+
+                        {{^ main_logo }}
+                            <h2  {{#logo_styles}} style="{{{logo_styles}}}" {{/logo_styles}}>{{sitename}}</h2>
+                        {{/main_logo}}
+                    </a>
+                {{/logo_visibility}}
+                <div class="collapse navbar-collapse mean-menu">
+
+                    {{#header_search_bar}}
+                        {{{edash_globalsearch_navbar}}}
+                    {{/header_search_bar}}
+
+                    <ul id="menu-primary-menu" class="navbar-nav">
+                        <!-- custom_menu -->
+                        {{{ output.custom_menu }}}
+                    </ul>
+
+                    {{output.if_edash_guest_user}}
+
+                    {{^ isloggedin}}
+                        {{#header_btn_text}}
+                            <div class="others-option d-flex align-items-center">
+                            
+                                <div class="option-item">
+                                {{#header_btn_url}}
+                                    <a href="{{header_btn_url}}" class="default-btn">
+                                {{/header_btn_url}}
+                                {{^ header_btn_url }}
+                                    <a href="{{ login_url }}" class="default-btn">
+                                {{/header_btn_url}}
+
+                                    <i class="{{header_btn_icon}}"></i>
+                                    {{header_btn_text}}<span></span>
+                                    </a>
+                                </div>
+                            </div>
+                        {{/header_btn_text}}
+
+                    {{/isloggedin}}
+                </div>
+
+                {{#isloggedin}}
+                    {{> theme_edash/edash_navbar_user }}
+                {{/isloggedin}}
+            </nav>
+        </div>
+    </div>
+    <div class="others-option-for-responsive">
+        <div class="container">
+            <div class="dot-menu">
+                <div class="inner">
+                    <div class="circle circle-one"></div>
+                    <div class="circle circle-two"></div>
+                    <div class="circle circle-three"></div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="option-inner">
+                    {{# header_search_bar}}
+                        <div class="option-item">
+                            {{{edash_globalsearch_navbar}}}                        
+                        </div>
+                    {{/header_search_bar}}
+
+                    {{^ isloggedin}}
+                        {{#header_btn_text}}
+                            <div class="option-item">
+                            {{#header_btn_url}}
+                                <a href="{{header_btn_url}}" class="default-btn">
+                            {{/header_btn_url}}
+                            {{^ header_btn_url }}
+                                <a href="{{ login_url }}" class="default-btn">
+                            {{/header_btn_url}}
+
+                                <i class="{{header_btn_icon}}"></i>
+                                {{header_btn_text}}<span></span>
+                                </a>
+                            </div>
+                        {{/header_btn_text}}
+                    {{/isloggedin}}
+
+                    {{#isloggedin}}
+                        <div class="option-item">
+                            {{> theme_edash/edash_navbar_user_mobile }}
+                        </div>
+                    {{/isloggedin}}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{{> theme_boost/primary-drawer-mobile }}

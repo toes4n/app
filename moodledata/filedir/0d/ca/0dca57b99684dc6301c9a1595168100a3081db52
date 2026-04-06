@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.119 --> 00:01.471\nAs with AFP cases,\n\n00:01.653 --> 00:06.957\neach contact is assigned a unique identifying epidemiological number or EPID number.\n\n00:07.659 --> 00:11.039\nThe EPID number of each of the three contacts of an AFP case\n\n00:11.379 --> 00:13.745\nis the same as that of the corresponding AFP case\n\n00:14.092 --> 00:15.964\nbut has its unique extension added to it.\n\n00:16.551 --> 00:18.397\nC1 for the first contact,\n\n00:18.720 --> 00:20.592\nC2 for the second\n\n00:20.919 --> 00:23.597\nand C3 for the third contact.\n\n00:24.273 --> 00:27.705\nThese EPID numbers will be recorded on the label to be stuck on the respective stool specimen container.\n\n"
+		};
+	window["st_{7D66CD81-384C-4879-9180-EE24C1E63343}"]?.("sndAsset23", subtitles);
+})();

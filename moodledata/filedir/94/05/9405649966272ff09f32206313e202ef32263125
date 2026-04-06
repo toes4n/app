@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.259 --> 00:04.475\nFour-year-old child presents with an inability to move his left leg.\n\n00:04.896 --> 00:10.404\nHe was hit by a bicycle and has a bruising and swelling of the left shin.\n\n00:10.812 --> 00:15.096\nA child has a reported vaccine history of three doses OPV.\n\n00:15.538 --> 00:17.612\nShould this case be reported?\n\n"
+		};
+	window["st_{C4F02683-6801-4AC3-A8B5-933B48FF2A52}"]?.("sndAsset14", subtitles);
+})();

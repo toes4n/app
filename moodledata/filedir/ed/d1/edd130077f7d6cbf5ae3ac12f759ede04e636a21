@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.192 --> 00:03.712\nLet us now look at an example last week\n\n00:04.288 --> 00:14.624\nThe mother gave me a history of a sudden onset of difficulty in walking.\nThere was no history or a parent, severe injury,\n\n00:14.720 --> 00:18.240\nor any history of birth, trauma or anomaly on examination \nI noticed the floppy weakness in the left leg.\n\n00:18.528 --> 00:31.712\nI thought about possible disease diseases, such as Gionis syndrome, transverse, myelitis, traumatic neuritis or even poliomyelitis, but I knew that it was critical to report this case as AFP respective about the causes\n\n00:31.836 --> 00:44.540\nEven if I am not entirely certain that this is truly a case AFP so remember if in doubt always report the case\n\n"
+		};
+	window["st_{C4F02683-6801-4AC3-A8B5-933B48FF2A52}"]?.("sndAsset9", subtitles);
+})();

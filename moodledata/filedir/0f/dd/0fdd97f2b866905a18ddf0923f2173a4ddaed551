@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.286 --> 00:09.308\nIf the specimens will arrive at the lab within 72 hours or 3 days, then they are kept at a temperature between 4° to 8°.\n\n00:09.999 --> 00:14.731\nHowever, if it is foreseen that the shipment will take more than 72 hours,\n\n00:15.002 --> 00:20.566\nthen the shipment must be frozen at -20° C and then shipped frozen.\n\n00:21.060 --> 00:28.132\nAlso, the specimens must not be stored along with food or vaccines to avoid contamination.\n\n"
+		};
+	window["st_{6E7CCEAE-3BAE-4411-874B-085EF6B04AAB}"]?.("sndAsset19", subtitles);
+})();

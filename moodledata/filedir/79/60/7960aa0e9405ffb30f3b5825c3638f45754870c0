@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.000 --> 00:00.238\nUnderstand the reverse cold chain process.\n\n00:00.473 --> 00:05.335\nLet us first understand why we collect stool specimens.\n\n00:05.858 --> 00:07.418\nAs you can see,\n\n00:07.938 --> 00:12.358\nthe polio virus only lives in the intestines of infected persons.\n\n00:12.927 --> 00:18.595\nThere it multiplies and is finally excreted in the person\'s stools.\n\n00:19.141 --> 00:25.745\nSo, to confirm if the paralysis in the AFP case is caused by the polio virus,\n\n00:26.045 --> 00:30.439\nthe analysis of stool specimens in the lab is the most effective approach.\n\n"
+		};
+	window["st_{6E7CCEAE-3BAE-4411-874B-085EF6B04AAB}"]?.("sndAsset4", subtitles);
+})();

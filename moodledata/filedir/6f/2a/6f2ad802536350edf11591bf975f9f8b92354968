@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.000 --> 00:05.590\nYou\'ll need to collect one stool sample from three children who have been in contact with an AFP case.\n\n00:05.987 --> 00:08.987\nIf select the correct option and select submit.\n\n"
+		};
+	window["st_{6E7CCEAE-3BAE-4411-874B-085EF6B04AAB}"]?.("sndAsset27", subtitles);
+})();

@@ -1,0 +1,95 @@
+a:86:{s:11:"back_to_top";s:1:"0";s:10:"brandcolor";s:7:"#009ADE";s:15:"edash_500px_url";s:0:"";s:16:"edash_amazon_url";s:0:"";s:17:"edash_behance_url";s:0:"";s:17:"edash_bitcoin_url";s:0:"";s:14:"edash_digg_url";s:0:"";s:18:"edash_dribbble_url";s:0:"";s:18:"edash_facebook_url";s:1:"#";s:16:"edash_flickr_url";s:0:"";s:18:"edash_forumbee_url";s:0:"";s:20:"edash_foursquare_url";s:0:"";s:16:"edash_github_url";s:0:"";s:16:"edash_gitlab_url";s:0:"";s:16:"edash_google_url";s:0:"";s:19:"edash_instagram_url";s:1:"#";s:17:"edash_leanpub_url";s:0:"";s:18:"edash_linkedin_url";s:0:"";s:16:"edash_medium_url";s:0:"";s:16:"edash_meetup_url";s:0:"";s:16:"edash_moodle_url";s:0:"";s:19:"edash_pinterest_url";s:1:"#";s:15:"edash_slack_url";s:0:"";s:20:"edash_slideshare_url";s:0:"";s:18:"edash_snapchat_url";s:0:"";s:20:"edash_soundcloud_url";s:0:"";s:18:"edash_telegram_url";s:0:"";s:16:"edash_trello_url";s:0:"";s:16:"edash_tumblr_url";s:0:"";s:16:"edash_twitch_url";s:0:"";s:17:"edash_twitter_url";s:1:"#";s:15:"edash_vimeo_url";s:0:"";s:12:"edash_vk_url";s:0:"";s:16:"edash_wechat_url";s:0:"";s:15:"edash_weibo_url";s:0:"";s:16:"edash_weixin_url";s:0:"";s:18:"edash_whatsapp_url";s:0:"";s:19:"edash_wordpress_url";s:0:"";s:14:"edash_xing_url";s:0:"";s:17:"edash_youtube_url";s:0:"";s:25:"enable_dark_navbar_footer";s:158:"https://edash.ddev.site/mod/page/view.php?id=55
+https://edash.ddev.site/mod/page/view.php?id=55/
+https://edash.ddev.site/mod/page/view.php?id=55&forceview=1";s:32:"enable_navbar_footer_style_three";s:158:"https://edash.ddev.site/mod/page/view.php?id=57
+https://edash.ddev.site/mod/page/view.php?id=57/
+https://edash.ddev.site/mod/page/view.php?id=57&forceview=1";s:30:"enable_navbar_footer_style_two";s:158:"https://edash.ddev.site/mod/page/view.php?id=56
+https://edash.ddev.site/mod/page/view.php?id=56/
+https://edash.ddev.site/mod/page/view.php?id=56&forceview=1";s:13:"enrolled_text";s:8:"Enrolled";s:7:"favicon";s:29:"/Untitled design (2) copy.png";s:9:"footer_bg";s:7:"#E6F8FF";s:17:"footer_col_1_body";s:113:"Lorem ipsum dolor sit amet, consectetur, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua minim.";s:18:"footer_col_1_title";s:0:"";s:17:"footer_col_2_body";s:449:"<ul class="custom-links">
+    <li><a href="https://edash.ddev.site/mod/page/view.php?id=5">About Us</a></li>
+    <li><a href="https://edash.ddev.site/course/index.php?categoryid=2">Course</a></li>
+    <li><a href="https://edash.ddev.site/course/">Categories</a></li>
+    <li><a href="https://edash.ddev.site/mod/page/view.php?id=29">Contact Us</a></li>
+    <li><a href="https://edash.ddev.site/login/signup.php">Become A Teacher</a></li>
+</ul>";s:18:"footer_col_2_title";s:8:"About Us";s:17:"footer_col_3_body";s:443:"<ul class="custom-links">
+    <li><a href="https://edash.ddev.site/?redirect=0">Home</a></li>
+    <li><a href="https://edash.ddev.site/mod/page/view.php?id=26">Privacy Policy</a></li>
+    <li><a href="https://edash.ddev.site/mod/page/view.php?id=27">Terms &amp; Conditions</a></li>
+    <li><a href="https://edash.ddev.site/login/signup.php">Register</a></li>
+    <li><a href="https://edash.ddev.site/login/index.php">Login</a></li>
+</ul>";s:18:"footer_col_3_title";s:9:"Resources";s:17:"footer_col_4_body";s:434:"<ul class="custom-links">
+    <li><a href="https://edash.ddev.site/blog/">Blog</a></li>
+    <li><a href="https://edash.ddev.site/blog/index.php?entryid=3">Single Post</a></li>
+    <li><a href="https://edash.ddev.site/blog/index.php?entryid=1">Parents</a></li>
+    <li><a href="https://edash.ddev.site/mod/page/view.php?id=28">Gallery</a></li>
+    <li><a href="https://edash.ddev.site/mod/page/view.php?id=25">FAQs</a></li>
+</ul>";s:18:"footer_col_4_title";s:10:"Quick Link";s:17:"footer_col_5_body";s:361:"<ul class="footer-contact-info">
+    <li><span>Address:</span> 2750 Quadra Street Victoria, Canada.</li>
+    <li><span>Email:</span> <a href="mailto:hello@edash.com">hello@edash.com</a></li>
+    <li><span>Phone:</span><a href="tel:+1-485-456-0102">+1-485-456-0102</a></li>
+    <li><span>Fax:</span><a href="tel:+107854578964">+1-0785 4578964</a></li>
+</ul>";s:18:"footer_col_5_title";s:10:"Contact Us";s:16:"footer_copyright";s:50:"Copyright @eDash. All Rights Reserved by EnvyTheme";s:18:"footer_logo_height";s:0:"";s:22:"footer_logo_visibility";s:1:"0";s:17:"footer_logo_width";s:5:"200px";s:18:"footer_shape_image";s:12:"/f Shape.png";s:32:"header_btn_icon_edash_icon_class";s:12:"flaticon-add";s:15:"header_btn_text";s:7:"Sign Up";s:14:"header_btn_url";s:39:"https://edash.ddev.site/login/index.php";s:13:"header_search";s:1:"1";s:11:"hide_banner";s:1486:"https://edash.ddev.site/?lang=en
+https://edash.ddev.site/?redirect=0&lang=en
+https://edash.ddev.site/?lang=ar
+https://edash.ddev.site/?redirect=0&lang=ar
+https://edash.ddev.site/?redirect=0
+https://edash.ddev.site/
+https://edash.ddev.site&forceview=1
+https://edash.ddev.site/mod/page/view.php?id=31/
+https://edash.ddev.site/mod/page/view.php?id=31
+https://edash.ddev.site/mod/page/view.php?id=31&forceview=1
+https://edash.ddev.site/mod/page/view.php?id=33/
+https://edash.ddev.site/mod/page/view.php?id=33
+https://edash.ddev.site/mod/page/view.php?id=33&forceview=1
+https://edash.ddev.site/mod/page/view.php?id=34
+https://edash.ddev.site/mod/page/view.php?id=34/
+https://edash.ddev.site/mod/page/view.php?id=34&forceview=1
+https://edash.ddev.site/mod/page/view.php?id=44/
+https://edash.ddev.site/mod/page/view.php?id=44&forceview=1
+https://edash.ddev.site/mod/page/view.php?id=44
+https://edash.ddev.site/mod/page/view.php?id=50&forceview=1
+https://edash.ddev.site/mod/page/view.php?id=50
+https://edash.ddev.site/mod/page/view.php?id=50/
+https://edash.ddev.site/mod/page/view.php?id=55&forceview=1
+https://edash.ddev.site/mod/page/view.php?id=55
+https://edash.ddev.site/mod/page/view.php?id=55/
+https://edash.ddev.site/mod/page/view.php?id=56&forceview=1
+https://edash.ddev.site/mod/page/view.php?id=56
+https://edash.ddev.site/mod/page/view.php?id=56/
+https://edash.ddev.site/mod/page/view.php?id=57&forceview=1
+https://edash.ddev.site/mod/page/view.php?id=57";s:18:"hide_global_banner";s:1:"0";s:28:"hide_guest_access_curriculum";s:1:"1";s:24:"hide_page_bottom_content";s:1536:"https://edash.ddev.site/?lang=en
+https://edash.ddev.site/?redirect=0&lang=en
+https://edash.ddev.site/?lang=ar
+https://edash.ddev.site/?redirect=0&lang=ar
+https://edash.ddev.site/?redirect=0
+https://edash.ddev.site/
+https://edash.ddev.site&forceview=1
+https://edash.ddev.site/mod/page/view.php?id=31/
+https://edash.ddev.site/mod/page/view.php?id=31
+https://edash.ddev.site/mod/page/view.php?id=31&forceview=1
+https://edash.ddev.site/mod/page/view.php?id=33/
+https://edash.ddev.site/mod/page/view.php?id=33
+https://edash.ddev.site/mod/page/view.php?id=33&forceview=1
+https://edash.ddev.site/mod/page/view.php?id=34
+https://edash.ddev.site/mod/page/view.php?id=34/
+https://edash.ddev.site/mod/page/view.php?id=34&forceview=1
+https://edash.ddev.site/mod/page/view.php?id=44/
+https://edash.ddev.site/mod/page/view.php?id=44&forceview=1
+https://edash.ddev.site/mod/page/view.php?id=44
+https://edash.ddev.site/mod/page/view.php?id=50&forceview=1
+https://edash.ddev.site/mod/page/view.php?id=50
+https://edash.ddev.site/mod/page/view.php?id=50/
+https://edash.ddev.site/mod/page/view.php?id=55&forceview=1
+https://edash.ddev.site/mod/page/view.php?id=55
+https://edash.ddev.site/mod/page/view.php?id=55/
+https://edash.ddev.site/mod/page/view.php?id=56&forceview=1
+https://edash.ddev.site/mod/page/view.php?id=56
+https://edash.ddev.site/mod/page/view.php?id=56/
+https://edash.ddev.site/mod/page/view.php?id=57&forceview=1
+https://edash.ddev.site/mod/page/view.php?id=57
+https://edash.ddev.site/mod/page/view.php?id=57/";s:17:"logo_image_height";s:0:"";s:16:"logo_image_width";s:5:"200px";s:15:"logo_visibility";s:1:"0";s:16:"main_footer_logo";s:22:"/WCO MMR logo blue.jpg";s:9:"main_logo";s:22:"/WCO MMR logo blue.jpg";s:11:"mobile_logo";s:22:"/WCO MMR logo blue.jpg";s:18:"mobile_logo_height";s:0:"";s:17:"mobile_logo_width";s:4:"90px";s:6:"preset";s:12:"default.scss";s:11:"presetfiles";s:0:"";s:4:"scss";s:0:"";s:7:"scsspre";s:242:".edash-nav .navbar .navbar-nav .nav-item .nav-link{
+    color: #009ADE !important;
+}
+
+.edash-nav .navbar .navbar-nav .nav-item .nav-link:hover, .edash-nav .navbar .navbar-nav .nav-item .nav-link.active {
+    color: #00205C !important;
+}";s:18:"search_placeholder";s:19:"Search for anything";s:14:"secondarycolor";s:7:"#EC272E";s:13:"site_currency";s:1:"$";s:13:"social_target";s:1:"0";s:7:"version";s:8:"20250428";}

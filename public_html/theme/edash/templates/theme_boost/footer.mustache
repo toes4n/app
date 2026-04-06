@@ -1,0 +1,131 @@
+{{#output.enable_dark_nav_footer}}
+<div class="footer-area color-with-black">
+{{/output.enable_dark_nav_footer}}
+ 
+{{^ output.enable_dark_nav_footer }}
+    {{#output.enable_nav_footer_style2}}
+    <div class="footer-area footer-with-bg">
+    {{/output.enable_nav_footer_style2}}
+
+    {{^ output.enable_nav_footer_style2 }}
+        {{#output.enable_nav_footer_style3}}
+            <div class="footer-area oa-footer">
+        {{/output.enable_nav_footer_style3}}
+
+        {{^ output.enable_nav_footer_style3 }}
+            <div class="footer-area">
+        {{/output.enable_nav_footer_style3}}
+    {{/output.enable_nav_footer_style2}}
+{{/output.enable_dark_nav_footer}}
+    <div class="container">
+        <div class="row">
+            {{#footer_column_1}}
+                <div class="{{{footer_col_1_class}}}">
+                    <div class="single-footer-widget">
+                        {{#footer_logo_visibility}}
+                            <a class="logo d-inline-block" href="{{{ config.wwwroot }}}/">
+                                {{#main_footer_logo}}
+                                    <img src="{{main_footer_logo}}" alt="{{sitename}}"  {{#footer_logo_styles}} style="{{{footer_logo_styles}}}" {{/footer_logo_styles}}>
+                                {{/main_footer_logo}}
+
+                                {{^ main_footer_logo }}
+                                    <h2  {{#footer_logo_styles}} style="{{{footer_logo_styles}}}" {{/footer_logo_styles}}>{{sitename}}</h2>
+                                {{/main_footer_logo}}
+                            </a>
+                        {{/footer_logo_visibility}}
+
+                        {{#footer_col_1_title}}
+                            <h3>{{{ footer_col_1_title }}}</h3>
+                        {{/footer_col_1_title}}
+
+                        {{#footer_col_1_body}}
+                            <p>{{{footer_col_1_body}}}</p>
+                        {{/footer_col_1_body}}
+
+                        <ul class="social">
+                            {{> theme_edash/edash_social_icons }}
+                        </ul>
+                    </div>
+                </div>
+            {{/footer_column_1}}
+            {{#footer_column_2}}
+                <div class="{{{footer_col_2_class}}}">
+                    <div class="single-footer-widget pl-1-d">
+                        <h3>{{{ footer_col_2_title }}}</h3>
+                        {{{ footer_col_2_body }}}
+                    </div>
+                </div>
+            {{/footer_column_2}}
+            {{#footer_column_3}}
+                <div class="{{{footer_col_3_class}}}">
+                    <div class="single-footer-widget pl-1-d">
+                        <h3>{{{ footer_col_3_title }}}</h3>
+                        {{{ footer_col_3_body }}}
+                    </div>
+                </div>
+            {{/footer_column_3}}
+            {{#footer_column_4}}
+                <div class="{{{footer_col_4_class}}}">
+                    <div class="single-footer-widget">
+                        <h3>{{{ footer_col_4_title }}}</h3>
+                        {{{ footer_col_4_body }}}
+                    </div>
+                </div>
+            {{/footer_column_4}}
+            {{#footer_column_5}}
+                <div class="{{{footer_col_5_class}}}">
+                    <div class="single-footer-widget">
+                        <h3>{{{ footer_col_5_title }}}</h3>
+                        {{{ footer_col_5_body }}}
+                    </div>
+                </div>
+            {{/footer_column_5}}
+        </div>
+
+        {{^ output.enable_nav_footer_style2 }}
+            {{^ output.enable_nav_footer_style3 }}
+                {{#footer_copyright}}
+                    <div class="copyright-area">
+                        <p>{{{footer_copyright}}}</p>
+                    </div>
+                {{/footer_copyright}}
+            {{/output.enable_nav_footer_style3}}
+        {{/output.enable_nav_footer_style2}}
+    </div>
+
+    {{#footer_shape_image}}
+        <div class="shape7"><img src="{{footer_shape_image}}" alt="{{sitename}}"></div>
+    {{/footer_shape_image}}
+    
+    {{#output.enable_nav_footer_style2 }}
+        {{#footer_copyright}}
+            <div class="copyright-area">
+                <p>{{{footer_copyright}}}</p>
+            </div>
+        {{/footer_copyright}}
+    {{/output.enable_nav_footer_style2}}
+
+    {{#output.enable_nav_footer_style3 }}
+        {{#footer_copyright}}
+            <div class="copyright-area">
+                <p>{{{footer_copyright}}}</p>
+            </div>
+        {{/footer_copyright}}
+    {{/output.enable_nav_footer_style3}}
+
+</div>
+
+
+<!-- End Footer Area -->
+
+{{#back_to_top}}
+    <div class="progress-wrap">
+        <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+            <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"/>
+        </svg>
+    </div>
+{{/back_to_top}}
+
+{{{ output.edit_switch }}}
+
+{{{ output.standard_end_of_body_html }}}

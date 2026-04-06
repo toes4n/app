@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.320 --> 00:06.528\nNow, moving onto the case definition for AFP it basically reflects the description\n\n00:07.008 --> 00:16.192\nWe have just seen a case of acute plastic paralysis, or AFP defined as the sudden onset of floppy paralysis or weakness of a limb in a child less than 15 years of age\n\n00:16.256 --> 00:20.160\nor any paralytic ill illness, affecting any part of the body in a person of any age when polio is suspected by a clinician\n\n00:20.244 --> 00:25.076\nor there is a strong likelihood of polio\n\n00:25.588 --> 00:34.068\nThe surveillance AFP is the gold standard for detecting cases of poliomyelitis\n\n"
+		};
+	window["st_{C4F02683-6801-4AC3-A8B5-933B48FF2A52}"]?.("sndAsset8", subtitles);
+})();

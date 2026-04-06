@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.156 --> 00:03.952\nNow that we have seen how to select contacts,\n\n00:04.212 --> 00:10.946\nlet\'s go over the methodology of contact sampling.\n\n00:11.986 --> 00:17.134\nContact specimens should ideally be collected within 7 days of the notification of the AFP case.\n\n00:17.757 --> 00:23.061\nThe collection, packaging, storage, and transport procedures for these specimens\n\n00:23.309 --> 00:27.989\nare the same as those for AFP stool specimens.\n\n00:28.470 --> 00:33.254\nPlease note that only one stool specimen from each of the three contacts will be collected.\n\n"
+		};
+	window["st_{6E7CCEAE-3BAE-4411-874B-085EF6B04AAB}"]?.("sndAsset25", subtitles);
+})();

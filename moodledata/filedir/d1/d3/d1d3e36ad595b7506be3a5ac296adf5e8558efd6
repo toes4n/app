@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.118 --> 00:03.550\nThe period from the time of collecting stool samples to reaching the laboratory,\n\n00:03.744 --> 00:09.828\nduring which the temperature is maintained between 4 degrees and 8 degrees,\n\n00:10.140 --> 00:11.977\nis called the Reverse Cold Chain.\n\n"
+		};
+	window["st_{7D66CD81-384C-4879-9180-EE24C1E63343}"]?.("sndAsset18", subtitles);
+})();

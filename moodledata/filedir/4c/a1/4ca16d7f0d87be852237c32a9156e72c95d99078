@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.160 --> 00:08.600\nIdeally, all surviving AFP cases should undergo a follow-up examination between 60 and 90 days after paralysis onset to check for residual paralysis.\n\n00:08.800 --> 00:17.640\nThis is because the presence of residual paralysis at the time of the visit provides further evidence that the poliovirus was the cause of the paralysis.\n\n00:19.289 --> 00:25.409\nReexamining non-polio cases can aid in determining a final diagnosis\n\n00:25.920 --> 00:31.266\nA 60-day follow-up examination must be conducted for all AFP cases\n\n00:31.964 --> 00:35.404\nHowever, due to programmatic seasons, this may not always be feasible\n\n00:35.480 --> 00:43.800\nAs a mininum requirements, all cases with \'inadequate specimens\' or with no specimens collected must receive a 60-day follow-up visit. This is because even with negative lab results, the polio lab cannot rule out the presence of poliovirus in the stools.\n\n00:43.800 --> 00:48.902\nLikewise, given the programmatic importance of vaccine viruses, the programme strongly recommends that all AFP cases with vaccine-type poliovirus\n\n"
+		};
+	window["st_{00C38465-2107-455D-B531-DCB97D67F4CE}"]?.("sndAsset6", subtitles);
+})();

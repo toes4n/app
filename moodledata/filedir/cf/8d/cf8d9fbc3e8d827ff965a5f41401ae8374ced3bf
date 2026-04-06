@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.260 --> 00:02.288\nIt\'s time for a quick knowledge check.\n\n00:02.878 --> 00:08.234\nSurveillance officer John collected two stool specimens in containers\n\n00:08.666 --> 00:11.666\nand put them in the specimen carrier.\n\n00:12.062 --> 00:13.804\nSince just one ice pack was available,\n\n00:14.326 --> 00:16.822\nJohn put it in the carrier.\n\n00:17.186 --> 00:19.812\nHe folded the lab request form and\n\n00:20.098 --> 00:22.672\nplaced it beside the stool specimen containers.\n\n00:23.192 --> 00:26.052\nWhen the lab received the carrier,\n\n00:26.416 --> 00:29.692\nthey entered the stool specimens as having arrived in bad condition.\n\n00:30.342 --> 00:32.916\nWhat could have gone wrong with John\'s packaging of the specimens?\n\n00:33.176 --> 00:36.176\nSelect the correct option and select submit.\n\n"
+		};
+	window["st_{6E7CCEAE-3BAE-4411-874B-085EF6B04AAB}"]?.("sndAsset17", subtitles);
+})();

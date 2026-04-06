@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.000 --> 00:04.399\nWhen filling out the form to document the visit, you need to ensure that:\n\n00:04.979 --> 00:07.137\nEvery question is answered\n\n00:07.386 --> 00:09.710\nNo space is left blank\n\n00:10.032 --> 00:13.850\nBrief clinical notes are written\n\n00:13.860 --> 00:20.832\nA copy of supporting documents, such as clinical opinions or investigations (if available), is attached.\n\n00:21.496 --> 00:25.397\nThe final diagnosis is clearly stated\n\n00:25.999 --> 00:33.303\nThe form is sign by the examining district or provincial surveillance officer, medical doctor or pediatrician\n\n00:34.024 --> 00:41.066\nA copy of the completed form is immediately sent to the concerned provincial office , such as the EPI cell and preferably by email\n\n"
+		};
+	window["st_{A09CDF69-FF06-491D-B17D-A6C9615194EE}"]?.("sndAsset9", subtitles);
+})();

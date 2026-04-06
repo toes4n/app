@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.160 --> 00:03.160\nSo, What do you do during a 60-day follow-up visit\n\n00:03.200 --> 00:06.200\nThere are 4 major steps to follow\n\n00:06.720 --> 00:09.720\nVerify\n\n00:09.760 --> 00:11.560\nInquire\n\n00:11.720 --> 00:13.800\nExamine and\n\n00:13.981 --> 00:17.341\nComplete the form\n\n00:17.440 --> 00:20.440\nSelect each step to learn more\n\n"
+		};
+	window["st_{A09CDF69-FF06-491D-B17D-A6C9615194EE}"]?.("sndAsset8", subtitles);
+})();

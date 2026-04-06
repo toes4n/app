@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.296 --> 00:08.456\nFirst, explore and understand the healthcare seeking behavior of the communities in your area of responsibility.\n\n00:08.796 --> 00:15.426\nThis means to understand where people, \nespecially those under 15 years of age\n\n00:15.494 --> 00:20.118\ngo when they are sick, sick or injured\n\n00:20.662 --> 00:28.108\nAfter that, map all the different healthcare facilities \nin your area of responsibility.\n\n00:28.628 --> 00:31.892\nThese could include formal facilities in the primary secondary and tertiary care, sectors, public private or military hospitals and clinics\n\n00:31.892 --> 00:33.762\nas well as chemist, pharmacies can also include informal healthcare providers, like traditional, healers, faith based or religious healers.\n\n00:34.170 --> 00:41.922\nYou should aim to reach out to all places and practitioners where a child under 15 years of age can possibly seek healthcare and sensitize them on\n\n00:42.262 --> 00:52.394\nhow to recognize AFP case and where and who to report.\n\n00:52.666 --> 01:02.434\nYou need to continue to analyze reasons for possible delays in AFP case detection in your area of responsibility and address them.\n\n"
+		};
+	window["st_{C4F02683-6801-4AC3-A8B5-933B48FF2A52}"]?.("sndAsset18", subtitles);
+})();

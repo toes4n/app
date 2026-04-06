@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.360 --> 00:03.360\nWelcome to AFP Surveillance Training\n\n00:03.655 --> 00:05.335\nMy name is Sarah\n\n00:05.640 --> 00:15.560\nThis module focuses on how to conduct a document a 60-day Follow-up examination for an AFP case\n\n00:16.080 --> 00:19.480\nIt then explains what the role of a country\'s polio Expert Review Committee\n\n00:19.480 --> 00:26.120\nAnd what polio compatible means\n\n00:26.400 --> 00:29.800\nIt will take you about 45 minutes to complete\n\n"
+		};
+	window["st_{A09CDF69-FF06-491D-B17D-A6C9615194EE}"]?.("sndAsset1", subtitles);
+})();

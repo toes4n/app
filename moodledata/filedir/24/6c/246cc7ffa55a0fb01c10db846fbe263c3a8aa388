@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.402 --> 00:06.692\nPhyu Phyu is a five-year-old child who has \nparalysis in her left leg and arm\n\n00:07.202 --> 00:11.282\nAccording to her mother, her leg drags.\n\n00:11.760 --> 00:16.928\nShe has a fever, and her mother reports a vaccine history of \nthree doses OPV suffering from AFP.\n\n00:17.272 --> 00:20.774\nShould you notify this case as AFP case?\n\n"
+		};
+	window["st_{C4F02683-6801-4AC3-A8B5-933B48FF2A52}"]?.("sndAsset12", subtitles);
+})();

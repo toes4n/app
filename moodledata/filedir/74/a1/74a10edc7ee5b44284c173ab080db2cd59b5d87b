@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.360 --> 00:05.178\nLet\'s take a closer look at polio-compatible cases, as this is an important concept\n\n00:05.310 --> 00:08.310\nThe programmatic significance of these cases is that:\n\n00:08.310 --> 00:15.702\nThey indicate areas with possible weak surveillance, and therefore possible undetected virus transmission\n\n00:15.702 --> 00:20.358\nGiven that the porgramme should investigate the reasons behind the classification as polio-compatible\n\n00:21.216 --> 00:29.004\nReason could be the late detection of the case or a delay in the shipment of stools specimens. Any of which would make the case\'s stool specimen inadequate\n\n00:29.910 --> 00:45.156\nThe bottom line is that the polio compatible case raises concern and underscores the need to strengthen the surveillance system in the area where the AFP case was detected\n\n00:45.636 --> 00:54.388\nThis is significant because we cannot dismiss the possibility that the paralysis of the AFP case was caused by the poliovirus\n\n"
+		};
+	window["st_{00C38465-2107-455D-B531-DCB97D67F4CE}"]?.("sndAsset18", subtitles);
+})();

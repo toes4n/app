@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.146 --> 00:03.150\nA country\'s national Expert Review Committee or ERC is a group of experts selected by the country\'s Ministry of Health\n\n00:03.600 --> 00:16.200\nThese specialists (such as pediatricians and neurologists) are all experts in the diseases \'Poliomyelitis\'\n\n00:16.466 --> 00:26.646\nThey meet at the national level and in certain countries at the sub National level as well regularly and on ad hoc basis generally between once a month to four times a year depending on the number of cases to review\n\n"
+		};
+	window["st_{00C38465-2107-455D-B531-DCB97D67F4CE}"]?.("sndAsset13", subtitles);
+})();

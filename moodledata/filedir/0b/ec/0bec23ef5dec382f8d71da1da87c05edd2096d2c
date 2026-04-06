@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.156 --> 00:02.470\nAFP Stool Collection Training\n\n00:03.120 --> 00:06.136\nWelcome to AFP surveillance training.\n\n00:06.708 --> 00:08.112\nMy name is Su Su.\n\n00:08.346 --> 00:17.160\nThis lesson focuses on stool collection, transport, and contact sampling.\n\n00:17.862 --> 00:20.353\nIt will take you about 45 minutes to complete.\n\n"
+		};
+	window["st_{1BE46B57-5718-4367-A3B4-E70567BBE4D4}"]?.("sndAsset1", subtitles);
+})();

@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.160 --> 00:09.536\nAt the end of this module, you should be able to explain why the polio eradication program looks for cases AFP instead of looking for cases of polio\n\n00:09.664 --> 00:17.024\nDescribe how to recognize AFP case understand the importance of timely notification\n\n"
+		};
+	window["st_{C4F02683-6801-4AC3-A8B5-933B48FF2A52}"]?.("sndAsset3", subtitles);
+})();

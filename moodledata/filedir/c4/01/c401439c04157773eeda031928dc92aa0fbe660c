@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.213 --> 00:07.467\nLet us now watch a video to understand the standard stool sample collection procedure.\n\n00:08.554 --> 00:10.945\nSelect play to start the video.\n\n"
+		};
+	window["st_{6E7CCEAE-3BAE-4411-874B-085EF6B04AAB}"]?.("sndAsset8", subtitles);
+})();

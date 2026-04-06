@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.352 --> 00:06.496\nLet us try to understand, the difference between the two\n\n00:06.940 --> 00:14.044\nIf we were to rely on clinical diagnosis alone, we may miss many cases of polio poliomyelitis.\n\n00:14.044 --> 00:17.692\nIt can only be confirmed by laboratory testing AFP on the other hand, which means acute flaccid paralysis is a syndrome\n\n00:18.112 --> 00:31.296\nAFP can be caused by several diseases, but by notifying investigating and laboratory testing all AFP cases. We have a better chance of finding those AFP cases that are due to polio\n\n00:31.859 --> 00:37.075\nThis is the reason why we conduct surveillance for AFP\n\n"
+		};
+	window["st_{C4F02683-6801-4AC3-A8B5-933B48FF2A52}"]?.("sndAsset5", subtitles);
+})();

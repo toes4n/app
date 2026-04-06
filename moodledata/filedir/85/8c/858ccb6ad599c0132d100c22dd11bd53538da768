@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.166 --> 00:06.806\nSo What does the ERC do and why?\n\n00:07.221 --> 00:22.991\nThe ERC meets to review and discuss an AFP cases for which virologic and/or clinical information is inadequate or incomplete\n\n00:22.991 --> 00:35.003\nDuring this meeting, the ERC assesses the compatibility of these cases with poliomyelitis, determing whether or not polio may have been the cause of the AFP\n\n00:35.003 --> 00:42.528\nThe ERC then goes on to classify these cases based on their evaluation.\n\n"
+		};
+	window["st_{A09CDF69-FF06-491D-B17D-A6C9615194EE}"]?.("sndAsset13", subtitles);
+})();

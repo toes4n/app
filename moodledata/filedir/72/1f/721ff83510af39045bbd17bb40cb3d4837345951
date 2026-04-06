@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.075 --> 00:04.189\nWe have come to the end of the paralysis to notification module.\n\n00:04.794 --> 00:06.800\nSo let us summarize.\n\n00:07.344 --> 00:15.096\nAFP is the gold standard for detecting cases of poliomyelitis \nidentifying and reporting.\n\n00:15.436 --> 00:25.296\nAll AFP cases improves our chances of detecting all polio cases\nAFP cases should be identified and notified to the surveillance system or network\n\n00:25.952 --> 00:30.168\nas soon as possible after the onset of paralysis and remember \nwhen in doubt always report that AFP case.\n\n"
+		};
+	window["st_{C4F02683-6801-4AC3-A8B5-933B48FF2A52}"]?.("sndAsset19", subtitles);
+})();

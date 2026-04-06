@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.233 --> 00:00.947\nCongratulations!\n\n00:01.185 --> 00:06.931\nYou have successfully completed the module paralysis to notification.\n\n00:07.378 --> 00:11.521\nYou can then select \"Exit\" to exit the course and return to iLearn.\n\n"
+		};
+	window["st_{C4F02683-6801-4AC3-A8B5-933B48FF2A52}"]?.("sndAsset20", subtitles);
+})();

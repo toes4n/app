@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.208 --> 00:02.184\nAt the end of this module,\n\n00:02.410 --> 00:07.090\nyou should be able to describe the stool collection process.\n\n00:07.462 --> 00:09.880\nPackage all the components of the stool collection kit,\n\n00:09.880 --> 00:11.778\nStore and transport stool specimens as per the guidelines.\n\n00:12.119 --> 00:20.153\nDefine stool condition, stool adequacy, and AFP contact sampling.\n\n00:20.566 --> 00:26.235\nUnderstand the reverse cold chain process.\n\n"
+		};
+	window["st_{6E7CCEAE-3BAE-4411-874B-085EF6B04AAB}"]?.("sndAsset3", subtitles);
+})();

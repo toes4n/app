@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.256 --> 00:04.640\nWelcome to Paralysis to Notification.\n\n00:05.248 --> 00:10.656\nMy name is Dr.Sarah and I\'m your survelliance training guide\n\n00:11.319 --> 00:21.463\nIn this module you will gain an understanding of the first step in AFP surveillance onset of paralysis to notification\n\n00:21.728 --> 00:26.112\nIt will take you about 30 minutes to complete.\n\n"
+		};
+	window["st_{C4F02683-6801-4AC3-A8B5-933B48FF2A52}"]?.("sndAsset1", subtitles);
+})();

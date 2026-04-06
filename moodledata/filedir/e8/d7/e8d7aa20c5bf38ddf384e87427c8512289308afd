@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.320 --> 00:02.960\nAt the end of this module, you should be able to\n\n00:02.960 --> 00:08.480\nExplain what a 60-day Follow-up examination of an AFP case is\n\n00:08.840 --> 00:12.400\nExplain the steps involved in conducting a 60-day Follow-up Examination\n\n00:13.203 --> 00:16.203\nExplain the role of the Polio Expert Review Committee\n\n00:16.320 --> 00:22.200\nAnd explain \"Polio Compatible Cases\" and their significance\n\n"
+		};
+	window["st_{A09CDF69-FF06-491D-B17D-A6C9615194EE}"]?.("sndAsset3", subtitles);
+})();

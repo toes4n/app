@@ -1,0 +1,33 @@
+<div id="region-main 
+" {{#hasblocks}}class="edmo-has-blocks"{{/hasblocks}} aria-label="{{#str}}content{{/str}}">
+    {{#hasregionmainsettingsmenu}}
+        <div class="region_main_settings_menu_proxy"></div>
+    {{/hasregionmainsettingsmenu}}
+
+    {{#has_blocks_above_content}}
+        {{{ blocks_above_content }}}
+    {{/has_blocks_above_content}}
+
+    <div class="edash-main">
+        {{#secondarymoremenu}}
+            <div class="secondary-navigation d-print-none">
+                {{> core/moremenu}}
+            </div>
+        {{/secondarymoremenu}}
+
+        {{{ output.course_content_header }}}
+        {{#headercontent}}
+            {{> core/activity_header }}
+        {{/headercontent}}
+
+        {{{ output.main_content }}}
+
+        {{{ output.activity_navigation }}}
+        {{{ output.course_content_footer }}}
+    </div>
+
+    {{#has_blocks_below_content}}
+        {{{ blocks_below_content }}}
+    {{/has_blocks_below_content}}
+
+</div>

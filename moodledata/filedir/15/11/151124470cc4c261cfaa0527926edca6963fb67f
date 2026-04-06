@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.396 --> 00:04.158\nThank you for completing this module\n\n00:04.290 --> 00:15.246\nTo assess your understanding of this module and the previous modules, please proceed to the quiz at the end of the module\n\n00:15.576 --> 00:21.735\nYou must achieve a score of 80% or higher to pass this assessment.\n\n"
+		};
+	window["st_{A09CDF69-FF06-491D-B17D-A6C9615194EE}"]?.("sndAsset19", subtitles);
+})();

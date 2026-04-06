@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.330 --> 00:05.148\nThe 2 final classifications that the ERC can give are:\n\n00:05.148 --> 00:11.748\n1. Discarded (as \"non-polio\") or\n\n00:12.012 --> 00:18.282\n2. Compatible with polio, And that means that\n\n00:18.744 --> 00:25.674\nPolio can not be ruled out as the cause of the paralysis or, in other words\n\n00:25.993 --> 00:32.680\nThe case is neither discarded as non-polio, nor confirmed as polio\n\n"
+		};
+	window["st_{A09CDF69-FF06-491D-B17D-A6C9615194EE}"]?.("sndAsset15", subtitles);
+})();

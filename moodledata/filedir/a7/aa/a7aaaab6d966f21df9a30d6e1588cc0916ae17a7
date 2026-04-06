@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.306 --> 00:08.024\nIt can be difficult to decide whether to report in AFP case or not for \nand reporting all cases AFP,\n\n00:08.024 --> 00:11.594\neven when you are unsure if they meet the case definition increase \nthe chances of not missing any cases of polio.\n\n00:13.158 --> 00:17.782\nIn this next section you will be presented with \nfive scenarios for each of them.\n\n00:18.382 --> 00:26.712\nYou will have to decide whether to report the case as AFP or not\n\n00:27.132 --> 00:31.110\nYou will be given feedback after each case.\n\n00:31.110 --> 00:34.110\nSelect next to begin.\n\n"
+		};
+	window["st_{C4F02683-6801-4AC3-A8B5-933B48FF2A52}"]?.("sndAsset11", subtitles);
+})();

@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.202 --> 00:05.090\nStool collection is the third major step in AFP surveillance after the onset of paralysis to notification and case investigation.\n\n00:05.746 --> 00:11.024\nIt is as time sensitive as the others.\n\n00:11.648 --> 00:16.432\nAny delay in these steps will delay the detection of the polio virus and therefore will delay any response to its detection.\n\n"
+		};
+	window["st_{6E7CCEAE-3BAE-4411-874B-085EF6B04AAB}"]?.("sndAsset2", subtitles);
+})();

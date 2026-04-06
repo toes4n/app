@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.198 --> 00:02.640\nIt is time for quick knowledge check.\n\n00:02.677 --> 00:10.267\nA 60-day follow-up examination is conducted between 60 and 90 days after notification of the AFP case.\n\n00:10.296 --> 00:14.055\nState if this statement is true or false.\n\n"
+		};
+	window["st_{00C38465-2107-455D-B531-DCB97D67F4CE}"]?.("sndAsset8", subtitles);
+})();

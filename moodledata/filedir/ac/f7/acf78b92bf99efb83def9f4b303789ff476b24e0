@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.260 --> 00:03.260\nThe polio virus is very sensitive to heat.\n\n00:03.978 --> 00:08.138\nHence, it is important to maintain the temperature between 4° to 8°C.\n\n"
+		};
+	window["st_{6E7CCEAE-3BAE-4411-874B-085EF6B04AAB}"]?.("sndAsset18", subtitles);
+})();
